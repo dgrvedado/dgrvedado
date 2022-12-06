@@ -26,8 +26,8 @@
 
 
 My development environment is 100% GNU/Linux, I don't like Microsoft operating systems; even if this same platform is theirs...
-<p alig="center">
-  <img src="https://github.com/dgrvedado/dgrvedado/blob/principal/Screenshot_20221205_191706.png"/>
+<p align="center">
+  <img src="https://github.com/dgrvedado/dgrvedado/blob/principal/Screenshot_20221205_191706.png" width="800"/>
 </p>
 
 ___I like to work with any relational database design (MySQL, PostgreSQL, MS SQL Server).___ 
