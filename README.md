@@ -13,10 +13,10 @@
 
 #### Technologies/Skills
 <p>
-<img src="https://img.shields.io/badge/PHP-24%20years-red"/>
-<img src="https://img.shields.io/badge/Laravel-7%20years-yellow"/>
-<img src="https://img.shields.io/badge/UNIX/Linux-24%20years-green"/>
-<img src="https://img.shields.io/badge/*SQL-24%20years-green"/>
+<img src="https://img.shields.io/badge/PHP-25%20years-red"/>
+<img src="https://img.shields.io/badge/Laravel-8%20years-yellow"/>
+<img src="https://img.shields.io/badge/UNIX/Linux-25%20years-green"/>
+<img src="https://img.shields.io/badge/*SQL-25%20years-green"/>
 </p>
 
   
